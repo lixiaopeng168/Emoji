@@ -1,0 +1,12 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <!--设置右侧箭头图片-->
+
+    <declare-styleable name="TextRight">
+
+        <attr name="textRightRes" format="reference" />
+        <attr name="textRightText" format="string" />
+
+    </declare-styleable>
+
+</resources>
