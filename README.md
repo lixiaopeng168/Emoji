@@ -34,5 +34,7 @@ mEmoji.setOnEmojiView(this);
 tv.setText( SmileyParser.getInstance().addSmileySpans(text));
 ```
 ----------------------------------------------------------------------------
+## 使用注意：请确保你的assets目录下有图片，请确保你是string.xml文件中对应的array数组和图片名称一样，如果不一样是执行不了的。
+<br/>
 ### 第一次写GitHub博客，有点高大尚的感觉，也有点兴奋。
 ### 时间不会等你，加油吧，骚年！
