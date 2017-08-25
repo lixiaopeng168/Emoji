@@ -33,3 +33,6 @@ mEmoji.setOnEmojiView(this);
 ```Java
 tv.setText( SmileyParser.getInstance().addSmileySpans(text));
 ```
+----------------------------------------------------------------------------
+### 第一次写GitHub博客，有点高大尚的感觉，也有点兴奋。
+### 时间不会等你，加油吧，骚年！
